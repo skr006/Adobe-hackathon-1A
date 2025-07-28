@@ -1,4 +1,3 @@
-# Adobe-hackathon-1A
 # Adobe Hackathon 1A 🚀
 
 This repository contains our project submission for the **Adobe Hackathon (Track 1A)**. The solution focuses on leveraging AI/ML and web technologies to solve real-world problems through innovative and impactful applications.
