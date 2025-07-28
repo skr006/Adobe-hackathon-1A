@@ -1,0 +1,85 @@
+{
+  "title": "Application form for grant of LTC advance",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Name of the Government Servant",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Designation",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Date of entering the Central Government",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Service",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PAY + SI + NPA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Whether permanent or temporary",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Home Town as recorded in the Service Book",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Whether wife / husband is employed and if",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Whether the concession is to be availed for",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "LTC is to be availed.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "India, the place to be visited.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Single",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "S.No",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Name",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Age",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Relationship",
+      "page": 1
+    }
+  ]
+}

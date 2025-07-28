@@ -1,0 +1,170 @@
+{
+  "title": "MULTIVARIATE STOCK PRICE",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "OVERVIEW",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Date of Submission: 06/03/2025",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Phase",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Tasks",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Milestone",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Duration",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Phase 1: Data",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Collection &",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Preprocessing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Dataset is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Phase 2: Model",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Development",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Trained LSTM",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Phase 3:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Inference,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Explainability &",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Visualization",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "TensorBoard for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Insights from SHAP",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Phase 4:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Deployment &",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Optimization",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Serving",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Hosting model with",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "API endpoints",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Phase 5: NLP",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Integration",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Improved",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Anticipated Results:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Potential Impact and Applications:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Quantitative Error Metrics  :",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Measures how close predicted stock prices are to actual values.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "TEAM DETAILS",
+      "page": 8
+    }
+  ]
+}
