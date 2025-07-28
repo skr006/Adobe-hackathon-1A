@@ -2,17 +2,8 @@
 
 This repository contains our project submission for the **Adobe Hackathon (Track 1A)**. The solution focuses on leveraging AI/ML and web technologies to solve real-world problems through innovative and impactful applications.
 
----
 
-## 📌 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
