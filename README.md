@@ -47,4 +47,3 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/skr006/Adobe-hackathon-1A.git
 cd Adobe-hackathon-1A
-npm install   # or pip install -r requirements.txt
